@@ -212,7 +212,10 @@ namespace Projeto_Final
             {
                 Console.Clear();
 
-                Console.WriteLine("É um programa criado por mim, Manuella com o objetivo de levar para o usuário foras de calcular operações rapidamente. Projeto para curso da ETEC Adolpho Berezin ");
+                Console.WriteLine("Projeto Final para o curso da ETEC Adolpho Berezin");
+                Console.WriteLine("É um programa que faz operações númericas.");
+                Console.WriteLine("Programa feito por Manuella Nascimento Santos");
+                Console.WriteLine("Link do repositorio:https://github.com/manunasci/Projeto_Final.git");
 
                 Console.Write("\nDeseja continuar nessa opção? (Sim/Nao): ");
                 escolha = Console.ReadLine();
